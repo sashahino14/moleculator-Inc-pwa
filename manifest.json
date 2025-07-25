@@ -2,7 +2,7 @@
   "name": "Moleculator Inc.",
   "short_name": "Moleculator",
   "description": "Calculateur de masse moléculaire pour les élèves de terminale",
-  "start_url": "./index.html",
+  "start_url": "/moleculator-Inc-pwa/",
   "display": "standalone",
   "background_color": "#3b82f6",
   "theme_color": "#3b82f6",
